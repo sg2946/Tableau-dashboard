@@ -1,2 +1,2 @@
 # Tableau-dashboard
-different versions of tableau dashboard
+Different versions of Tableau Dashboard
